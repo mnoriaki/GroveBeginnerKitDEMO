@@ -1,6 +1,8 @@
 # GroveBeginnerKitDEMO
 This is a demo program which shows sensor values and a graph for Grove Beginner Kit for Arduino by Seeed Studio.
 
+[![Video of Grove Beginner Kit for Arduino Demo](http://img.youtube.com/vi/TgCzHi3-twE/0.jpg)](http://www.youtube.com/watch?v=TgCzHi3-twE "Grove Beginner Kit for Arduino Demo")
+
 To run this sketch you need to install libraries below;
 - Grove Temperature and Humidity Sensor library by Seeed Studio,
 - Grove Barometer Sensor library BMP280 by Seeed Studio, and
